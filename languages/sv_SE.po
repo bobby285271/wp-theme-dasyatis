@@ -1,0 +1,84 @@
+# Translation of WordPress.com - Themes - Maywood in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Maywood package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-27 14:54:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Maywood\n"
+
+#: functions.php:86
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: functions.php:96
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:91
+msgid "Subtle Gray"
+msgstr "Subtil grå"
+
+#. Translators: If there are characters in your language that are not supported
+#. by IBM Plex Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:127
+msgctxt "IBM Plex Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Primär"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: functions.php:71
+msgid "Black"
+msgstr "Svart"
+
+#: functions.php:76
+msgid "Dark Gray"
+msgstr "Mörkgrå"
+
+#: functions.php:81
+msgid "Gray"
+msgstr "Grå"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Stor"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Stort"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Liten"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Normal"

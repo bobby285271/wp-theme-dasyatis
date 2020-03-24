@@ -1,0 +1,76 @@
+# Translation of WordPress.com - Themes - Maywood in Norwegian
+# This file is distributed under the same license as the WordPress.com - Themes - Maywood package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-28 16:20:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: no\n"
+"Project-Id-Version: WordPress.com - Themes - Maywood\n"
+
+#: functions.php:96
+msgid "White"
+msgstr "Hvit"
+
+#: functions.php:91
+msgid "Subtle Gray"
+msgstr "Subtil grå"
+
+#: functions.php:86
+msgid "Light Gray"
+msgstr "Lysegrå"
+
+#: functions.php:81
+msgid "Gray"
+msgstr "Grå"
+
+#: functions.php:76
+msgid "Dark Gray"
+msgstr "Mørkegrå"
+
+#: functions.php:71
+msgid "Black"
+msgstr "Svart"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Sekundær"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Hovedblogg"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Svær"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Stor"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Liten"

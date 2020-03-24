@@ -1,0 +1,77 @@
+# Translation of WordPress.com - Themes - Maywood in Italian
+# This file is distributed under the same license as the WordPress.com - Themes - Maywood package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-28 19:32:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: WordPress.com - Themes - Maywood\n"
+
+#: functions.php:86
+msgid "Light Gray"
+msgstr "Grigio chiaro"
+
+#: functions.php:96
+msgid "White"
+msgstr "Bianco"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/maywood/style.css
+msgid "Maywood is a refined theme designed for restaurants and food-related businesses seeking a modern look."
+msgstr "Maywood è un tema raffinato progettato per quelle attività del mondo della ristorazione che vogliono un aspetto moderno."
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Secondario"
+
+#: functions.php:71
+msgid "Black"
+msgstr "Nero"
+
+#: functions.php:76
+msgid "Dark Gray"
+msgstr "Grigio scuro"
+
+#: functions.php:81
+msgid "Gray"
+msgstr "Grigio"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Grande"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Piccolo"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Normale"
