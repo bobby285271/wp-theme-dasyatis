@@ -65,7 +65,7 @@ if ( ! function_exists( 'maywood_setup' ) ) :
 				array(
 					'name'  => __( 'Secondary', 'maywood' ),
 					'slug'  => 'secondary',
-					'color' => '#c4493f',
+					'color' => '#3083bb',
 				),
 				array(
 					'name'  => __( 'Black', 'maywood' ),

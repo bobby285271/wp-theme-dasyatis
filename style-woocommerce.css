@@ -666,7 +666,7 @@ body[class*="woocommerce"] #page .woocommerce input.button:disabled[disabled]:ho
 }
 
 #content .wc-block-grid .wc-block-grid__product-rating .star-rating span:before {
-	color: #c4493f;
+	color: #3083bb;
 }
 
 #content .wc-block-grid .wc-block-grid__product-price {

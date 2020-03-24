@@ -2404,7 +2404,7 @@ table th,
 }
 
 .has-secondary-color[class] {
-	color: #c4493f !important;
+	color: #3083bb !important;
 }
 
 .has-foreground-color[class] {
@@ -2442,7 +2442,7 @@ table th,
 }
 
 .has-secondary-background-color[class] {
-	background-color: #c4493f !important;
+	background-color: #3083bb !important;
 	color: #FFFFFF;
 }
 
