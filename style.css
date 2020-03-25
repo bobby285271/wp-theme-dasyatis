@@ -4491,3 +4491,8 @@ strong {
 .fse-template-part .wp-block-cover-image .has-background {
 	text-shadow: none;
 }
+
+/*Hide title*/
+.page .entry-title{
+	display:none;
+}
